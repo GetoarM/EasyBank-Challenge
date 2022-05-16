@@ -6,4 +6,4 @@ Thanks for checking out this front-end coding challenge.
 
 Link to the website is here: https://getoarm.github.io/EasyBank-Challenge/
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) challenges you to improve your coding skills by building realistic projects.
