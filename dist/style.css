@@ -100,6 +100,12 @@ body {
   }
 }
 
+@media (max-width: 63.9375em) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
 body.noscroll {
   overflow: hidden;
 }
