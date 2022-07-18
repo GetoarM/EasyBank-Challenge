@@ -1,8 +1,6 @@
-# Frontend Mentor - Easybank Landing Page Challenge
-
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out this front-end coding challenge. Frontend Mentor - Easybank Landing Page Challenge
 
 # Live [Preview](https://getoarm.github.io/frontend-mentor-challenge/)
 
